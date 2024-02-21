@@ -1,2 +1,0 @@
-# SunitaPython
-Python Codes
