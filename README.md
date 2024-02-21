@@ -3,7 +3,7 @@
 Instacart, an online grocery store that operates through an app, wants to uncover more information about their sales patterns. I used Python to wrangle and analyze several datasets for Instacart to derive some insights and from strategies for better customer segmentation. I make a report based on my analysis and give some recommendations to stakeholders so that Instacart can launch a targated marketing strategy.
 
 ## Objective
-image
+![image](https://github.com/nanusunita/Instacart-Basket-Analysis-Python/assets/160656980/b3229f4a-007d-4109-a9b3-d1f71e983c95)
 
  Instacart already has very good sales, but they want to uncover more information about their sales patterns.
 
